@@ -1,0 +1,20 @@
+h1, h3, p{
+    color:orange
+}
+body{
+    background-color:rgb(0, 0, 0) 
+}
+img{
+    border-radius: 1000px
+}
+div{ 
+    align-items: center;
+}
+
+g {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
